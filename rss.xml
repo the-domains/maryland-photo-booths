@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[One of Maryland top Photo Booths!]]></title>
+        <description><![CDATA[One of Maryland top Photo Booths!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 11 Feb 2016 02:09:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Maryland Photo Booths]]></title>
+            <description><![CDATA[<article><h1>Maryland Photo Booths</h1><p>Maryland Photo Booths - The Best?Some would think...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0851f944a378118b71d3d9d9e3c1dc572aa9f10e.jpg"></article>]]></description>
+            <link>undefinedmaryland-photo-booths/index.html</link>
+            <guid isPermaLink="false">bcde5b88-883b-4f47-9fbc-bbf0b0f5c213</guid>
+            <pubDate>Thu, 11 Feb 2016 02:09:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

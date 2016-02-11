@@ -1,7 +1,7 @@
 name: Maryland Photo Booths
 favicon: null
-layout_spectrum: 0.6860005990602076
-typography_spectrum: 0.3132958591450006
+layout_spectrum: 1
+typography_spectrum: 0.32534
 cta:
   domain: null
   bucket: null

@@ -2,6 +2,7 @@ name: Maryland Photo Booths
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.32534
+title: 'One of Maryland top Photo Booths!'
 cta:
   domain: null
   bucket: null

@@ -1,0 +1,28 @@
+name: Maryland Photo Booths
+favicon: null
+layout_spectrum: 0.6860005990602076
+typography_spectrum: 0.3132958591450006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.002613172633573413
+  lightness: 0.7662467786576599
+  saturation: 0.4193071813788265
+  rhythmicContrast: 0.014289566315710545
+purpose: []
